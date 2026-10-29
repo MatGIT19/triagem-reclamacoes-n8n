@@ -1,0 +1,11 @@
+nome,pedido,mensagem,urgencia_esperada,motivo_esperado
+Ana,1001,"Pedi pizza sem cebola porque tenho alergia e veio com cebola. Passei mal.",alta,produto_errado
+Bruno,1002,"O pedido está atrasado mais de uma hora e ninguém responde.",alta,atraso
+Carla,1003,"A batata chegou fria e murcha.",media,qualidade
+Diego,1004,"Faltou o refrigerante no meu pedido.",media,item_faltando
+Elisa,1005,"Fui cobrada duas vezes no cartão pelo mesmo pedido.",alta,pagamento
+Felipe,1006,"O entregador foi grosso comigo na porta.",media,atendimento
+Gabriela,1007,"A embalagem veio um pouco amassada, mas a comida estava boa.",baixa,embalagem
+Henrique,1008,"Achei um fio de cabelo no macarrão.",alta,qualidade
+Isabela,1009,"A porção estava menor do que da última vez.",baixa,qualidade
+João,1010,"Chegou 15 minutos depois do previsto, nada demais, só avisando.",baixa,atraso
